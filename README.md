@@ -6,6 +6,8 @@ I'm a Product Manager [@prismacsi](https://github.com/PrismaCSI) working on 💖
 - 💖	Justice and peace
 - 🌟	Self-learning
 
+![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=mertcangokgoz&show_icons=true&theme=dark)
+
 ## How do i work
 
 My primary source of motivation is money 💵(because I live in Turkey and life is hard📈)
