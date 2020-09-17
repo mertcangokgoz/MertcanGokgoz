@@ -8,6 +8,7 @@ I'm a Product Manager [@prismacsi](https://github.com/PrismaCSI) working on 💖
 - 💖	Justice and peace
 - 🌟	Self-learning
 
+![trophy](https://github-profile-trophy.vercel.app/?username=mertcangokgoz)
 ![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=mertcangokgoz&show_icons=true&theme=dark)
 
 ## How do i work
