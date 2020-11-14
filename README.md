@@ -1,6 +1,6 @@
 # Hi there my name is Mertcan GOKGOZ 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mertcangokgoz&label=Profile Views&color=brightgreen&style=plastic" alt="roshanlam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mertcangokgoz&label=Profile Views&color=brightgreen&style=plastic" /> </p>
 
 I'm a Product Manager [@prismacsi](https://github.com/PrismaCSI) working on 💖[Brandefense](https://brandefense.com/) and trying my best to add some fun to places where your face might show up. Previously worked on the DevOps/NetOps team to help automate processes and increase productivity
 
@@ -45,3 +45,7 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 # How to reach me?
 
 👉[@mertcangokgoz](https://twitter.com/mertcangokgoz) me on Twitter about any of the following!
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
