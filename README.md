@@ -48,9 +48,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NGINX İçin ngx_pagespeed Kuralları](https://mertcangokgoz.com/nginx-icin-ngx_pagespeed-kurallari/)
 - [Mutlaka Engellemeniz Gereken Tehlikeli Telefon Numaraları](https://mertcangokgoz.com/mutlaka-engellemeniz-gereken-tehlikeli-telefon-numaralari/)
 - [MISCONF Redis is configured to save RDB snapshots Hatası Ve Çözümü](https://mertcangokgoz.com/misconf-redis-is-configured-to-save-rdb-snapshots-hatasi-ve-cozumu/)
 - [NGINX Güvenlik Yapılandırması Nasıl Yapılır?](https://mertcangokgoz.com/nginx-guvenlik-yapilandirmasi-nasil-yapilir/)
 - [Django REST Framework Özelleştirilebilir Exception Çıktıları](https://mertcangokgoz.com/django-rest-framework-ozellestirilebilir-exception-ciktilari/)
-- [Plesk Panel’i Hetzner DNS ile Birlikte Kullanma](https://mertcangokgoz.com/plesk-paneli-hetzner-dns-ile-birlikte-kullanma/)
 <!-- BLOG-POST-LIST:END -->
