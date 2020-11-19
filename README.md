@@ -1,6 +1,8 @@
 # Hi there my name is Mertcan GOKGOZ 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mertcangokgoz&label=Profile Views&color=brightgreen&style=plastic" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mertcangokgoz&label=Profile Views&color=brightgreen&style=plastic" /> <a href="https://twitter.com/mertcangokgoz?ref_src=twsrc%5Etfw" class="twitter-follow-button">
+<img src="https://img.shields.io/twitter/follow/mertcangokgoz?style=social" />
+</a></p>
 
 I'm a Product Manager [@prismacsi](https://github.com/PrismaCSI) working on 💖[Brandefense](https://brandefense.com/) and trying my best to add some fun to places where your face might show up. Previously worked on the DevOps/NetOps team to help automate processes and increase productivity
 
