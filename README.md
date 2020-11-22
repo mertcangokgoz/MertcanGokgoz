@@ -50,9 +50,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Shield Security Kurulum Ve Ayarları](https://mertcangokgoz.com/wordpress-shield-security-kurulum-ve-ayarlari/)
 - [Yeni Bilgisayar Topladım, Neden AMD Tercih Ettim?](https://mertcangokgoz.com/yeni-bilgisayar-topladim-neden-amd-tercih-ettim/)
 - [NGINX İçin ngx_pagespeed Kuralları](https://mertcangokgoz.com/nginx-icin-ngx_pagespeed-kurallari/)
 - [Mutlaka Engellemeniz Gereken Tehlikeli Telefon Numaraları](https://mertcangokgoz.com/mutlaka-engellemeniz-gereken-tehlikeli-telefon-numaralari/)
 - [MISCONF Redis is configured to save RDB snapshots Hatası Ve Çözümü](https://mertcangokgoz.com/misconf-redis-is-configured-to-save-rdb-snapshots-hatasi-ve-cozumu/)
-- [NGINX Güvenlik Yapılandırması Nasıl Yapılır?](https://mertcangokgoz.com/nginx-guvenlik-yapilandirmasi-nasil-yapilir/)
 <!-- BLOG-POST-LIST:END -->
