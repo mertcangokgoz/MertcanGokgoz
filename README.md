@@ -50,9 +50,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 20.04 LTS Üzerine Hyper-V İçin linux-vm-tools Kurulumu](https://mertcangokgoz.com/ubuntu-20-04-lts-uzerine-hyper-v-icin-linux-vm-tools-kurulumu/)
 - [Windows Server 2019 Kurulumu](https://mertcangokgoz.com/windows-server-2019-kurulumu/)
 - [NGINX’de XenForo Yapılandırma](https://mertcangokgoz.com/nginxde-xenforo-yapilandirma/)
 - [Rank Math SEO wp_actionscheduler_groups Hatası Ve Çözümü](https://mertcangokgoz.com/rank-math-seo-wp_actionscheduler_groups-hatasi-ve-cozumu/)
 - [Etler ve Patates için Baharat Karışımları](https://mertcangokgoz.com/etler-ve-patates-icin-baharat-karisimlari/)
-- [WordPress Shield Security Kurulum Ve Ayarları](https://mertcangokgoz.com/wordpress-shield-security-kurulum-ve-ayarlari/)
 <!-- BLOG-POST-LIST:END -->
