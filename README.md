@@ -6,10 +6,6 @@
 
 I'm a Product Manager [@prismacsi](https://github.com/PrismaCSI) working on 💖[Brandefense](https://brandefense.com/) and trying my best to add some fun to places where your face might show up. Previously worked on the DevOps/NetOps team to help automate processes and increase productivity
 
-- ❄️	Endless Love
-- 💖	Justice and peace
-- 🌟	Self-learning
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=mertcangokgoz)
 ![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=mertcangokgoz&show_icons=true&theme=dark)
 
