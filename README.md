@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debian 10 Üzerine VNC Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-vnc-nasil-kurulur/)
 - [Windows Server 2019 Bilgisayar Adı Nasıl Değiştirilir?](https://mertcangokgoz.com/windows-server-2019-bilgisayar-adi-nasil-degistirilir/)
 - [Github’da Kullanılabilecek Güncel Dorklar](https://mertcangokgoz.com/githubda-kullanilabilecek-guncel-dorklar/)
 - [Windows Server 2019 Yerel Kullanıcıya Admin Yetkilerinin Verilmesi](https://mertcangokgoz.com/windows-server-2019-yerel-kullaniciya-admin-yetkilerinin-verilmesi/)
 - [Windows Server 2019 Yerel Kullanıcı Oluşturma](https://mertcangokgoz.com/windows-server-2019-yerel-kullanici-olusturma/)
-- [Ubuntu 20.04 LTS Üzerine Hyper-V İçin linux-vm-tools Kurulumu](https://mertcangokgoz.com/ubuntu-20-04-lts-uzerine-hyper-v-icin-linux-vm-tools-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
