@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debian 10 Microsoft SQL Server Kurulumu](https://mertcangokgoz.com/debian-10-microsoft-sql-server-kurulumu/)
 - [Debian 10 Hyper-V Daemons Kurulumu](https://mertcangokgoz.com/debian-10-hyper-v-daemons-kurulumu/)
 - [Debian 10 Üzerine VNC Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-vnc-nasil-kurulur/)
 - [Windows Server 2019 Bilgisayar Adı Nasıl Değiştirilir?](https://mertcangokgoz.com/windows-server-2019-bilgisayar-adi-nasil-degistirilir/)
 - [Github’da Kullanılabilecek Güncel Dorklar](https://mertcangokgoz.com/githubda-kullanilabilecek-guncel-dorklar/)
-- [Windows Server 2019 Yerel Kullanıcıya Admin Yetkilerinin Verilmesi](https://mertcangokgoz.com/windows-server-2019-yerel-kullaniciya-admin-yetkilerinin-verilmesi/)
 <!-- BLOG-POST-LIST:END -->
