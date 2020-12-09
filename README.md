@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudFlare Web Analytics Nedir? Nasıl Kullanılır?](https://mertcangokgoz.com/cloudflare-web-analytics-nedir-nasil-kullanilir/)
 - [Pluralsight Skill IQ Python Core Language Assessment Cevapları](https://mertcangokgoz.com/pluralsight-skill-iq-python-core-language-assessment-cevaplari/)
 - [Debian 10 Üzerine MariaDB Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-mariadb-nasil-kurulur/)
 - [Debian 10 Üzerine PowerShell Kurulumu](https://mertcangokgoz.com/debian-10-uzerine-powershell-kurulumu/)
 - [Debian 10 Microsoft SQL Server Kurulumu](https://mertcangokgoz.com/debian-10-microsoft-sql-server-kurulumu/)
-- [Debian 10 Hyper-V Daemons Kurulumu](https://mertcangokgoz.com/debian-10-hyper-v-daemons-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
