@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeniden Başlatılması Gereken Servisler Nasıl Tespit Edilir?](https://mertcangokgoz.com/yeniden-baslatilmasi-gereken-servisler-nasil-tespit-edilir/)
 - [Debian 10 Üzerine PHP 8.0 Kurulumu](https://mertcangokgoz.com/debian-10-uzerine-php-8-0-kurulumu/)
 - [Arızalı Servis systemd ile Otomatik Nasıl Yeniden Başlatılır?](https://mertcangokgoz.com/arizali-servis-systemd-ile-otomatik-nasil-yeniden-baslatilir/)
 - [CloudFlare Web Analytics Nedir? Nasıl Kullanılır?](https://mertcangokgoz.com/cloudflare-web-analytics-nedir-nasil-kullanilir/)
 - [Pluralsight Skill IQ Python Core Language Assessment Cevapları](https://mertcangokgoz.com/pluralsight-skill-iq-python-core-language-assessment-cevaplari/)
-- [Debian 10 Üzerine MariaDB Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-mariadb-nasil-kurulur/)
 <!-- BLOG-POST-LIST:END -->
