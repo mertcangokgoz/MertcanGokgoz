@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CentOS 6 ve 8 Sunucuyu Oracle Linux’a Taşıma](https://mertcangokgoz.com/centos-6-ve-8-sunucuyu-oracle-linuxa-tasima/)
 - [Linux UEFI Boot Partition Sorunu ve Onarma Yöntemi](https://mertcangokgoz.com/linux-uefi-boot-partition-sorunu-ve-onarma-yontemi/)
 - [Yeniden Başlatılması Gereken Servisler Nasıl Tespit Edilir?](https://mertcangokgoz.com/yeniden-baslatilmasi-gereken-servisler-nasil-tespit-edilir/)
 - [Debian 10 Üzerine PHP 8.0 Kurulumu](https://mertcangokgoz.com/debian-10-uzerine-php-8-0-kurulumu/)
 - [Arızalı Servis systemd ile Otomatik Nasıl Yeniden Başlatılır?](https://mertcangokgoz.com/arizali-servis-systemd-ile-otomatik-nasil-yeniden-baslatilir/)
-- [CloudFlare Web Analytics Nedir? Nasıl Kullanılır?](https://mertcangokgoz.com/cloudflare-web-analytics-nedir-nasil-kullanilir/)
 <!-- BLOG-POST-LIST:END -->
