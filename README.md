@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debian 10 Üzerine Spotify Nasıl Kurulur?](https://mertcangokgoz.com/debian-10-uzerine-spotify-nasil-kurulur/)
 - [Web Sitenizi Ücretsiz Barındırmak İçin Kullanabileceğiniz 4 Sağlayıcı](https://mertcangokgoz.com/web-sitenizi-ucretsiz-barindirmak-icin-kullanabileceginiz-4-saglayici/)
 - [Ubuntu 20.04 Üzerine TinyCP Kontrol Paneli Nasıl Kurulur?](https://mertcangokgoz.com/ubuntu-20-04-uzerine-tinycp-kontrol-paneli-nasil-kurulur/)
 - [Windows Server 2019’da Sabit IP Adresi Nasıl Tanımlanır?](https://mertcangokgoz.com/windows-server-2019-da-sabit-ip-adresi-nasil-tanimlanir/)
 - [Debian 10 Üzerine TinyCP Kontrol Paneli Nasıl Kurulur?](https://mertcangokgoz.com/debian-10-uzerine-tinycp-kontrol-paneli-nasil-kurulur/)
-- [CentOS 6 ve 8 Sunucuyu Oracle Linux’a Taşıma](https://mertcangokgoz.com/centos-6-ve-8-sunucuyu-oracle-linuxa-tasima/)
 <!-- BLOG-POST-LIST:END -->
