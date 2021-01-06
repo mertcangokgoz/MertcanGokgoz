@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NextDNS ile DNS Güvenliği ve Gizliliği](https://mertcangokgoz.com/nextdns-ile-dns-guvenligi-ve-gizliligi/)
 - [UFW Kullanarak CloudFlare Trafiğinin Kabul Edilmesi](https://mertcangokgoz.com/ufw-kullanarak-cloudflare-trafiginin-kabul-edilmesi/)
 - [Centos 7 Üzerine Zesle Kontrol Panel (ZesleCP) Nasıl Kurulur?](https://mertcangokgoz.com/centos-7-uzerine-zesle-kontrol-panel-zeslecp-nasil-kurulur/)
 - [TC Kimlik Numarası Nasıl Doğrulanır Ve Üretilir?](https://mertcangokgoz.com/tc-kimlik-numarasi-nasil-dogrulanir-ve-uretilir/)
 - [Debian 10 Üzerine Spotify Nasıl Kurulur?](https://mertcangokgoz.com/debian-10-uzerine-spotify-nasil-kurulur/)
-- [Web Sitenizi Ücretsiz Barındırmak İçin Kullanabileceğiniz 4 Sağlayıcı](https://mertcangokgoz.com/web-sitenizi-ucretsiz-barindirmak-icin-kullanabileceginiz-4-saglayici/)
 <!-- BLOG-POST-LIST:END -->
