@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Sunucu Güvenliği Bölüm 2: Kernel Hardening](https://mertcangokgoz.com/linux-sunucu-guvenligi-bolum-2-kernel-hardening/)
 - [MikroTik’de DDNS Nasıl Aktif Edilir?](https://mertcangokgoz.com/mikrotikde-ddns-nasil-aktif-edilir/)
 - [Windows Script Host Nasıl Devre Dışı Bırakılır?](https://mertcangokgoz.com/windows-script-host-nasil-devre-disi-birakilir/)
 - [NextDNS ile DNS Güvenliği ve Gizliliği](https://mertcangokgoz.com/nextdns-ile-dns-guvenligi-ve-gizliligi/)
 - [UFW Kullanarak CloudFlare Trafiğinin Kabul Edilmesi](https://mertcangokgoz.com/ufw-kullanarak-cloudflare-trafiginin-kabul-edilmesi/)
-- [Centos 7 Üzerine Zesle Kontrol Panel (ZesleCP) Nasıl Kurulur?](https://mertcangokgoz.com/centos-7-uzerine-zesle-kontrol-panel-zeslecp-nasil-kurulur/)
 <!-- BLOG-POST-LIST:END -->
