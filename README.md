@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Casper Excalibur G770 Boot Sorunu Ve Çözümü](https://mertcangokgoz.com/casper-excalibur-g770-boot-sorunu-ve-cozumu/)
 - [Debian 10 Üzerine Hestia Kontrol Paneli(HestiaCP) Nasıl Kurulur?](https://mertcangokgoz.com/debian-10-uzerine-hestia-kontrol-paneli-hestiacp-nasil-kurulur/)
 - [Linux Sunuculara Dinamik MOTD Nasıl Oluşturulur?](https://mertcangokgoz.com/linux-sunuculara-dinamik-motd-nasil-olusturulur/)
 - [Reverse Proxy Arkasında CORS Ayarlama](https://mertcangokgoz.com/reverse-proxy-arkasinda-cors-ayarlama/)
 - [Linux Sunucu Güvenliği Bölüm 2: Kernel Hardening](https://mertcangokgoz.com/linux-sunucu-guvenligi-bolum-2-kernel-hardening/)
-- [MikroTik’de DDNS Nasıl Aktif Edilir?](https://mertcangokgoz.com/mikrotikde-ddns-nasil-aktif-edilir/)
 <!-- BLOG-POST-LIST:END -->
