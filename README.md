@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ghost’u MySQL’den SQLite’a Taşıma](https://mertcangokgoz.com/ghostu-mysqlden-sqlitea-tasima/)
 - [Ghost’u SQLite’tan MySQL’e Taşıma](https://mertcangokgoz.com/ghostu-sqlitetan-mysqle-tasima/)
 - [WSL’de Paket Kurarken libc-bin Hatası ve Çözümü](https://mertcangokgoz.com/wslde-paket-kurarken-libc-bin-hatasi-ve-cozumu/)
 - [MikroTik’de NTP Nasıl Ayarlanır Ve Güncellenir?](https://mertcangokgoz.com/mikrotikde-ntp-nasil-ayarlanir-ve-guncellenir/)
 - [Casper Excalibur G770 Boot Sorunu Ve Çözümü](https://mertcangokgoz.com/casper-excalibur-g770-boot-sorunu-ve-cozumu/)
-- [Debian 10 Üzerine Hestia Kontrol Paneli(HestiaCP) Nasıl Kurulur?](https://mertcangokgoz.com/debian-10-uzerine-hestia-kontrol-paneli-hestiacp-nasil-kurulur/)
 <!-- BLOG-POST-LIST:END -->
