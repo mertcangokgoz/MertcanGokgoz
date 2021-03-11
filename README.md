@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debian 10 Üzerine PostgreSQL Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-postgresql-nasil-kurulur/)
 - [Debian 10 Üzerine DNS-Over-HTTPS Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-dns-over-https-nasil-kurulur/)
 - [MikroTik’de BitTorrent Trafiği Nasıl Engellenir?](https://mertcangokgoz.com/mikrotikde-bittorrent-trafigi-nasil-engellenir/)
 - [Debian 9 Üzerine PHP 8.0 Kurulumu](https://mertcangokgoz.com/debian-9-uzerine-php-8-0-kurulumu/)
 - [Debian 10 Üzerine RPM Paketleri Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-rpm-paketleri-nasil-kurulur/)
-- [Ghost’u MySQL’den SQLite’a Taşıma](https://mertcangokgoz.com/ghostu-mysqlden-sqlitea-tasima/)
 <!-- BLOG-POST-LIST:END -->
