@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debian 10 Üzerine PHP 7.2 Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-php-7-2-nasil-kurulur/)
 - [Debian 10 VMware Tools Kurulumu](https://mertcangokgoz.com/debian-10-vmware-tools-kurulumu/)
 - [Debian 10 NTP Sunucusu Kurulumu](https://mertcangokgoz.com/debian-10-ntp-sunucusu-kurulumu/)
 - [Debian 10 Üzerine PostgreSQL Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-postgresql-nasil-kurulur/)
 - [Debian 10 Üzerine DNS-Over-HTTPS Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-dns-over-https-nasil-kurulur/)
-- [MikroTik’de BitTorrent Trafiği Nasıl Engellenir?](https://mertcangokgoz.com/mikrotikde-bittorrent-trafigi-nasil-engellenir/)
 <!-- BLOG-POST-LIST:END -->
