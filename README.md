@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Görev Zamanlayıcı Hata Kodları](https://mertcangokgoz.com/windows-gorev-zamanlayici-hata-kodlari/)
 - [Debian 10 Üzerine PHP 7.2 Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-php-7-2-nasil-kurulur/)
 - [Debian 10 VMware Tools Kurulumu](https://mertcangokgoz.com/debian-10-vmware-tools-kurulumu/)
 - [Debian 10 NTP Sunucusu Kurulumu](https://mertcangokgoz.com/debian-10-ntp-sunucusu-kurulumu/)
 - [Debian 10 Üzerine PostgreSQL Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-postgresql-nasil-kurulur/)
-- [Debian 10 Üzerine DNS-Over-HTTPS Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-dns-over-https-nasil-kurulur/)
 <!-- BLOG-POST-LIST:END -->
