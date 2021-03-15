@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio Code’un 144Hz-240Hz Monitörler’de  Görüntüsünün Bozulması Ve Çözümü](https://mertcangokgoz.com/visual-studio-codeun-144hz-240hz-monitorlerde-goruntusunun-bozulmasi-ve-cozumu/)
 - [Microsoft SQL Server OneDrive’a Nasıl Yedeklenir?](https://mertcangokgoz.com/microsoft-sql-server-onedrivea-nasil-yedeklenir/)
 - [Windows Görev Zamanlayıcı Hata Kodları](https://mertcangokgoz.com/windows-gorev-zamanlayici-hata-kodlari/)
 - [Debian 10 Üzerine PHP 7.2 Nasıl Kurulur](https://mertcangokgoz.com/debian-10-uzerine-php-7-2-nasil-kurulur/)
 - [Debian 10 VMware Tools Kurulumu](https://mertcangokgoz.com/debian-10-vmware-tools-kurulumu/)
-- [Debian 10 NTP Sunucusu Kurulumu](https://mertcangokgoz.com/debian-10-ntp-sunucusu-kurulumu/)
 <!-- BLOG-POST-LIST:END -->
