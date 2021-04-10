@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudFlare Page Rules İle Karmaşık URL Yönlendirmeleri Nasıl Yapılır?](https://mertcangokgoz.com/cloudflare-page-rules-ile-karmasik-url-yonlendirmeleri-nasil-yapilir/)
 - [Linux Sunucularda Dış IP Adresi Nasıl Tespit Edilir?](https://mertcangokgoz.com/linux-sunucularda-dis-ip-adresi-nasil-tespit-edilir/)
 - [Django’da Parolasız Oturum Açma(Passwordless Authentication) Mekanizması Nasıl Uygulanır?](https://mertcangokgoz.com/djangoda-parolasiz-oturum-acma-passwordless-authentication-mekanizmasi-nasil-uygulanir/)
 - [Debian 9 Üzerine SOCKS5 Proxy Kurulumu](https://mertcangokgoz.com/debian-9-uzerine-socks5-proxy-kurulumu/)
 - [Debian 10 Üzerine SOCKS5 Proxy Kurulumu](https://mertcangokgoz.com/debian-10-uzerine-socks5-proxy-kurulumu/)
-- [Visual Studio Code’un 144Hz-240Hz Monitörler’de  Görüntüsünün Bozulması Ve Çözümü](https://mertcangokgoz.com/visual-studio-codeun-144hz-240hz-monitorlerde-goruntusunun-bozulmasi-ve-cozumu/)
 <!-- BLOG-POST-LIST:END -->
