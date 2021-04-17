@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL’de Nasıl Sürüm Yükseltilir?](https://mertcangokgoz.com/postgresqlde-nasil-surum-yukseltilir/)
 - [Linux Kurulumundan Sonra Windows EFI Bölümü Nasıl Onarılır?](https://mertcangokgoz.com/linux-kurulumundan-sonra-windows-efi-bolumu-nasil-onarilir/)
 - [Windows’ta RDP Uzak Masaüstü Etkinlik Günlükleri Nasıl Kontrol Edilir?](https://mertcangokgoz.com/windowsta-rdp-uzak-masaustu-etkinlik-gunlukleri-nasil-kontrol-edilir/)
 - [CloudFlare Page Rules İle Karmaşık URL Yönlendirmeleri Nasıl Yapılır?](https://mertcangokgoz.com/cloudflare-page-rules-ile-karmasik-url-yonlendirmeleri-nasil-yapilir/)
 - [Linux Sunucularda Dış IP Adresi Nasıl Tespit Edilir?](https://mertcangokgoz.com/linux-sunucularda-dis-ip-adresi-nasil-tespit-edilir/)
-- [Django’da Parolasız Oturum Açma(Passwordless Authentication) Mekanizması Nasıl Uygulanır?](https://mertcangokgoz.com/djangoda-parolasiz-oturum-acma-passwordless-authentication-mekanizmasi-nasil-uygulanir/)
 <!-- BLOG-POST-LIST:END -->
