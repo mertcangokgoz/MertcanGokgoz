@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debian 10 Üzerine IPsec VPN Nasıl Kurulur?](https://mertcangokgoz.com/debian-10-uzerine-ipsec-vpn-nasil-kurulur/)
 - [Windows 10’da Yedekleme için Depolama Alanı Nasıl Oluşturulur?](https://mertcangokgoz.com/windows-10da-yedekleme-icin-depolama-alani-nasil-olusturulur/)
 - [PHP’de Cross Site Scripting (XSS) Filtreleme Nasıl Yapılır?](https://mertcangokgoz.com/phpde-cross-site-scripting-xss-filtreleme-nasil-yapilir/)
 - [Web Sitelerimizi Google’ın FLoC Ağı’nın Dışında Nasıl Tutarız?](https://mertcangokgoz.com/web-sitelerimizi-googlein-floc-aginin-disinda-nasil-tutariz/)
 - [Windows 10 ve Microsoft Office ISO Disk Görüntüleri Nasıl İndirilir?](https://mertcangokgoz.com/windows-10-ve-microsoft-office-iso-disk-goruntuleri-nasil-indirilir/)
-- [PostgreSQL’de Nasıl Sürüm Yükseltilir?](https://mertcangokgoz.com/postgresqlde-nasil-surum-yukseltilir/)
 <!-- BLOG-POST-LIST:END -->
