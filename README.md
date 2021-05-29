@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ Kullanıcı Oluşturma Ve Yetki Tanımlama](https://mertcangokgoz.com/rabbitmq-kullanici-olusturma-ve-yetki-tanimlama/)
 - [Django’da Kullanıcıları Tek Oturuma Nasıl Zorlarız?](https://mertcangokgoz.com/djangoda-kullanicilari-tek-oturuma-nasil-zorlariz/)
 - [Django MongoDB Paginator](https://mertcangokgoz.com/django-mongodb-paginator/)
 - [Adım Adım Kendi NAS Sunucumu Oluşturuyorum](https://mertcangokgoz.com/adim-adim-kendi-nas-sunucumu-olusturuyorum/)
 - [JavaScript ile Kullanıcı İşlem Yapmıyorsa Sayfa Nasıl Yenilenir?](https://mertcangokgoz.com/javascript-ile-kullanici-islem-yapmiyorsa-sayfa-nasil-yenilenir/)
-- [CloudFlare İle Internet Explorer Tarayıcısının Engellenmesi](https://mertcangokgoz.com/cloudflare-ile-internet-explorer-tarayicisinin-engellenmesi/)
 <!-- BLOG-POST-LIST:END -->
