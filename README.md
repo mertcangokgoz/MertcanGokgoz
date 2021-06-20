@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudFlare ile Netinternet WAF Nasıl Entegre Kullanılır?](https://mertcangokgoz.com/cloudflare-ile-netinternet-waf-nasil-entegre-kullanilir/)
 - [Netinternet WAF İlk İzlenimler](https://mertcangokgoz.com/netinternet-waf-ilk-izlenimler/)
 - [Raspberry Pi 4 Model B İle WiFi Ethernet Köprüleme](https://mertcangokgoz.com/raspberry-pi-4-model-b-ile-wifi-ethernet-kopruleme/)
 - [MikroTik Üzerinde Protokol Sınıflandırma Nasıl Yapılır?](https://mertcangokgoz.com/mikrotik-uzerinde-protokol-siniflandirma-nasil-yapilir/)
 - [RabbitMQ Kullanıcı Oluşturma Ve Yetki Tanımlama](https://mertcangokgoz.com/rabbitmq-kullanici-olusturma-ve-yetki-tanimlama/)
-- [Django’da Kullanıcıları Tek Oturuma Nasıl Zorlarız?](https://mertcangokgoz.com/djangoda-kullanicilari-tek-oturuma-nasil-zorlariz/)
 <!-- BLOG-POST-LIST:END -->
