@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Üzerine Rocket.Chat Nasıl Kurulur?](https://mertcangokgoz.com/raspberry-pi-uzerine-rocket-chat-nasil-kurulur/)
 - [Python İle Sistem Bilgilerinin Sorgulanması](https://mertcangokgoz.com/python-ile-sistem-bilgilerinin-sorgulanmasi/)
 - [Python ile Para Birimi Biçimlendirme İşlemi](https://mertcangokgoz.com/python-ile-para-birimi-bicimlendirme-islemi/)
 - [CloudFlare ile Netinternet WAF Nasıl Entegre Kullanılır?](https://mertcangokgoz.com/cloudflare-ile-netinternet-waf-nasil-entegre-kullanilir/)
 - [Netinternet WAF İlk İzlenimler](https://mertcangokgoz.com/netinternet-waf-ilk-izlenimler/)
-- [Raspberry Pi 4 Model B İle WiFi Ethernet Köprüleme](https://mertcangokgoz.com/raspberry-pi-4-model-b-ile-wifi-ethernet-kopruleme/)
 <!-- BLOG-POST-LIST:END -->
