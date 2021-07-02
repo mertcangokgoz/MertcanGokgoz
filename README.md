@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Siteleri İçin Zaman Ayarlı Gece Modu Nasıl Yapılır?](https://mertcangokgoz.com/web-siteleri-icin-zaman-ayarli-gece-modu-nasil-yapilir/)
 - [AlmaLinux 8 Nasıl İndirilir Ve Kurulur?](https://mertcangokgoz.com/almalinux-8-nasil-indirilir-ve-kurulur/)
 - [Netinternet WAF WordPress İçin Özel Kurallar](https://mertcangokgoz.com/netinternet-waf-wordpress-icin-ozel-kurallar/)
 - [Raspberry Pi Üzerine Rocket.Chat Nasıl Kurulur?](https://mertcangokgoz.com/raspberry-pi-uzerine-rocket-chat-nasil-kurulur/)
 - [Python İle Sistem Bilgilerinin Sorgulanması](https://mertcangokgoz.com/python-ile-sistem-bilgilerinin-sorgulanmasi/)
-- [Python ile Para Birimi Biçimlendirme İşlemi](https://mertcangokgoz.com/python-ile-para-birimi-bicimlendirme-islemi/)
 <!-- BLOG-POST-LIST:END -->
