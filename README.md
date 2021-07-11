@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Açık Kaynak Güvenlik Araçları](https://mertcangokgoz.com/acik-kaynak-guvenlik-araclari/)
 - [Nginx “413 Request Entity Too Large” Hatası Nasıl Çözülür?](https://mertcangokgoz.com/nginx-413-request-entity-too-large-hatasi-nasil-cozulur/)
 - [2038 Yılı Sorunu için EXT4 Dosya Sistemi Nasıl Güncellenir?](https://mertcangokgoz.com/2038-yili-sorunu-icin-ext4-dosya-sistemi-nasil-guncellenir/)
 - [Web Siteleri İçin Zaman Ayarlı Gece Modu Nasıl Yapılır?](https://mertcangokgoz.com/web-siteleri-icin-zaman-ayarli-gece-modu-nasil-yapilir/)
 - [AlmaLinux 8 Nasıl İndirilir Ve Kurulur?](https://mertcangokgoz.com/almalinux-8-nasil-indirilir-ve-kurulur/)
-- [Netinternet WAF WordPress İçin Özel Kurallar](https://mertcangokgoz.com/netinternet-waf-wordpress-icin-ozel-kurallar/)
 <!-- BLOG-POST-LIST:END -->
