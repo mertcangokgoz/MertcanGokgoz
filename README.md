@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gitignore Nasıl Kullanılır?](https://mertcangokgoz.com/gitignore-nasil-kullanilir/)
+- [MacOS Üzerine Git Nasıl Kurulur](https://mertcangokgoz.com/macos-uzerine-git-nasil-kurulur/)
 - [MikroTik’de DDoS Saldırılarından Korunmak İçin Firewall Kuralları](https://mertcangokgoz.com/mikrotikde-ddos-saldirilarindan-korunmak-icin-firewall-kurallari/)
 - [Açık Kaynak Güvenlik Araçları](https://mertcangokgoz.com/acik-kaynak-guvenlik-araclari/)
 - [Nginx “413 Request Entity Too Large” Hatası Nasıl Çözülür?](https://mertcangokgoz.com/nginx-413-request-entity-too-large-hatasi-nasil-cozulur/)
-- [2038 Yılı Sorunu için EXT4 Dosya Sistemi Nasıl Güncellenir?](https://mertcangokgoz.com/2038-yili-sorunu-icin-ext4-dosya-sistemi-nasil-guncellenir/)
-- [Web Siteleri İçin Zaman Ayarlı Gece Modu Nasıl Yapılır?](https://mertcangokgoz.com/web-siteleri-icin-zaman-ayarli-gece-modu-nasil-yapilir/)
 <!-- BLOG-POST-LIST:END -->
