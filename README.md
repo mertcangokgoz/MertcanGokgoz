@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MikroTik Üzerinde Zoom İçin Optimizasyon Nasıl Yapılır?](https://mertcangokgoz.com/mikrotik-uzerinde-zoom-icin-optimizasyon-nasil-yapilir/)
 - [Alt Ağ (Subnet) Nedir?](https://mertcangokgoz.com/alt-ag-subnet-nedir/)
 - [7 Katmanlı OSI Modeli Nedir?](https://mertcangokgoz.com/7-katmanli-osi-modeli-nedir/)
 - [DNS Nedir, Nasıl Çalışır?](https://mertcangokgoz.com/dns-nedir-nasil-calisir/)
 - [Gitignore Nasıl Kullanılır?](https://mertcangokgoz.com/gitignore-nasil-kullanilir/)
-- [MacOS Üzerine Git Nasıl Kurulur](https://mertcangokgoz.com/macos-uzerine-git-nasil-kurulur/)
 <!-- BLOG-POST-LIST:END -->
