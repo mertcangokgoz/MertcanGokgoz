@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Arp Nedir?](https://mertcangokgoz.com/arp-nedir/)
 - [Netcat/Ncat Kullanımı](https://mertcangokgoz.com/netcat-ncat-kullanimi/)
 - [NMAP Kullanımı](https://mertcangokgoz.com/nmap-kullanimi/)
 - [BaRMIe ile Java RMI Tespiti](https://mertcangokgoz.com/barmie-ile-java-rmi-tespiti/)
 - [MikroTik Üzerinde Zoom İçin Optimizasyon Nasıl Yapılır?](https://mertcangokgoz.com/mikrotik-uzerinde-zoom-icin-optimizasyon-nasil-yapilir/)
-- [Alt Ağ (Subnet) Nedir?](https://mertcangokgoz.com/alt-ag-subnet-nedir/)
 <!-- BLOG-POST-LIST:END -->
