@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MikroTik’de DNS Üzerinden Youtube Kısıtlı Mod Nasıl Kullanılır?](https://mertcangokgoz.com/mikrotikde-dns-uzerinden-youtube-kisitli-mod-nasil-kullanilir/)
 - [Docker-compose Kullanarak Mevcut Docker Imajları Nasıl Güncellenir?](https://mertcangokgoz.com/docker-compose-kullanarak-mevcut-docker-imajlari-nasil-guncellenir/)
 - [Arp Nedir?](https://mertcangokgoz.com/arp-nedir/)
 - [Netcat/Ncat Kullanımı](https://mertcangokgoz.com/netcat-ncat-kullanimi/)
 - [NMAP Kullanımı](https://mertcangokgoz.com/nmap-kullanimi/)
-- [BaRMIe ile Java RMI Tespiti](https://mertcangokgoz.com/barmie-ile-java-rmi-tespiti/)
 <!-- BLOG-POST-LIST:END -->
