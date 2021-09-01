@@ -46,9 +46,9 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Netinternet WAF Orijinal Ziyaretçi IP’leri Nasıl Çözümlenir?](https://mertcangokgoz.com/netinternet-waf-orijinal-ziyaretci-ipleri-nasil-cozumlenir/)
 - [İlkbyte Sunucularında Statik IP Nasıl Yapılandırılır?](https://mertcangokgoz.com/ilkbyte-sunucularinda-statik-ip-nasil-yapilandirilir/)
 - [MikroTik’de Virüs ve Malware Portlarının Engellenmesi](https://mertcangokgoz.com/mikrotikde-virus-ve-malware-portlarinin-engellenmesi/)
 - [Sanal Makine İmajları Nasıl Dönüştürülür?](https://mertcangokgoz.com/sanal-makine-imajlari-nasil-donusturulur/)
 - [MikroTik’de DNS Üzerinden Youtube Kısıtlı Mod Nasıl Kullanılır?](https://mertcangokgoz.com/mikrotikde-dns-uzerinden-youtube-kisitli-mod-nasil-kullanilir/)
-- [Docker-compose Kullanarak Mevcut Docker Imajları Nasıl Güncellenir?](https://mertcangokgoz.com/docker-compose-kullanarak-mevcut-docker-imajlari-nasil-guncellenir/)
 <!-- BLOG-POST-LIST:END -->
