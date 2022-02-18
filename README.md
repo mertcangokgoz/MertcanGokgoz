@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/twitter/follow/mertcangokgoz?style=social" />
 </a></p>
 
-I'm a worker [@brandefense](https://github.com/Brandefense) working on 💖[Brandefense](https://brandefense.io/) and trying my best to add some fun to places where your face might show up. Previously worked on the DevOps/NetOps team to help automate processes and increase productivity
+I'm a worker [@brandefense](https://github.com/Brandefense) and trying my best to add some fun to places where your face might show up. Previously worked on the DevOps/NetOps team to help automate processes and increase productivity
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mertcangokgoz)
 ![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=mertcangokgoz&show_icons=true&theme=dark)
