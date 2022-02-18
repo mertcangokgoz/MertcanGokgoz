@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/twitter/follow/mertcangokgoz?style=social" />
 </a></p>
 
-I'm a worker [@prismacsi](https://github.com/PrismaCSI) working on 💖[Brandefense](https://brandefense.com/) and trying my best to add some fun to places where your face might show up. Previously worked on the DevOps/NetOps team to help automate processes and increase productivity
+I'm a worker [@brandefense](https://github.com/Brandefense) working on 💖[Brandefense](https://brandefense.io/) and trying my best to add some fun to places where your face might show up. Previously worked on the DevOps/NetOps team to help automate processes and increase productivity
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mertcangokgoz)
 ![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=mertcangokgoz&show_icons=true&theme=dark)
@@ -43,12 +43,3 @@ My primary source of motivation is money 💵(because I live in Turkey📈)
 # How to reach me?
 
 👉[@mertcangokgoz](https://twitter.com/mertcangokgoz) me on Twitter about any of the following!
-
-# Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [MikroTik’de NVIDIA GeForce Now için QoS Ayarları Nasıl Yapılır?](https://mertcangokgoz.com/mikrotikde-nvidia-geforce-now-icin-qos-ayarlari-nasil-yapilir/)
-- [Netinternet WAF Orijinal Ziyaretçi IP’leri Nasıl Çözümlenir?](https://mertcangokgoz.com/netinternet-waf-orijinal-ziyaretci-ipleri-nasil-cozumlenir/)
-- [İlkbyte Sunucularında Statik IP Nasıl Yapılandırılır?](https://mertcangokgoz.com/ilkbyte-sunucularinda-statik-ip-nasil-yapilandirilir/)
-- [MikroTik’de Virüs ve Malware Portlarının Engellenmesi](https://mertcangokgoz.com/mikrotikde-virus-ve-malware-portlarinin-engellenmesi/)
-- [Sanal Makine İmajları Nasıl Dönüştürülür?](https://mertcangokgoz.com/sanal-makine-imajlari-nasil-donusturulur/)
-<!-- BLOG-POST-LIST:END -->
