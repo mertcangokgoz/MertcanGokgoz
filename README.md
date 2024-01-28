@@ -10,7 +10,7 @@ Trying my best to add some fun to places where your face might show up
 * 🖥️  See my portfolio at [Blog](https://mertcangokgoz.com)
 * ✉️  You can contact me at [mertcan.gokgoz@gmail.com](mailto:mertcan.gokgoz@gmail.com)
 * 🚀  I'm currently working on [Brandefense](https://brandefense.io)
-* 🧠  I'm learning rust lang
+* 🧠  I'm learning rust lang and kubernetes
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/mertcangokgoz" target="_blank" rel="noreferrer"><img
@@ -56,4 +56,4 @@ src="https://img.shields.io/twitter/follow/mertcangokgoz?logo=twitter&style=for-
 
 <b>My Roadmap</b>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64c401c483df54a1e4323a56?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c401c483df54a1e4323a56?variant=dark)](https://roadmap.sh)
