@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ------------------
 
-Trying my best to add some fun to places where your face might show up
-
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Blog](https://mertcangokgoz.com)
-* ✉️  You can contact me at [mertcan.gokgoz@gmail.com](mailto:mertcan.gokgoz@gmail.com)
+* ✉️  You can contact me at [mertcan@gokgoz.net](mertcan@gokgoz.net)
 * 🚀  I'm currently working on [Brandefense](https://brandefense.io)
-* 🧠  I'm learning rust lang and kubernetes
+* 🧠  I'm learning golang, rust lang and kubernetes
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/mertcangokgoz" target="_blank" rel="noreferrer"><img
@@ -40,7 +38,6 @@ src="https://img.shields.io/twitter/follow/mertcangokgoz?logo=twitter&style=for-
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
