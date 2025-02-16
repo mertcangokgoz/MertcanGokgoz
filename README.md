@@ -6,7 +6,7 @@ DevOps Engineer
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Blog](https://mertcangokgoz.com)
-* ✉️  You can contact me at [mertcan@gokgoz.net](mertcan@gokgoz.net)
+* ✉️  You can contact me at [mertcan@gokgoz.net](mailto:mertcan@gokgoz.net)
 * 🚀  I'm currently working on [Brandefense](https://brandefense.io)
 * 🧠  I'm learning golang, rust lang and kubernetes
 * 🤝  I'm open to collaborating on interesting projects
